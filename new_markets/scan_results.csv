@@ -1,0 +1,292 @@
+timestamp,question,yes_bid,yes_ask,spread,volume,age_hours,llm_score,llm_recommendation,llm_confidence,llm_edge,llm_reasoning,url
+2025-12-21T21:55:14.187540,Will AC Milan win on 2025-12-28?,0.690,0.720,0.030,6507,166.9,,,,,,https://polymarket.com/event/sea-mil-ver-2025-12-28-mil
+2025-12-21T21:55:14.187843,Russia strike on Kyiv municipality by December 31?,0.570,0.650,0.080,5756,160.0,,,,,,https://polymarket.com/event/russia-strike-on-kyiv-municipality-by-december-31
+2025-12-21T21:55:14.188137,Will XRP reach $2.00 December 15-21?,0.001,0.089,0.088,9574,157.0,,,,,,https://polymarket.com/event/will-xrp-reach-2-december-15-21
+2025-12-21T21:55:14.188298,Norfolk State Spartans vs. UTEP Miners,0.490,0.510,0.020,9353,156.9,,,,,,https://polymarket.com/event/cbb-norfst-utep-2025-12-21
+2025-12-21T21:55:14.188394,Tesla launches unsupervised full self driving (FSD) by March 31?,0.780,0.830,0.050,27696,156.9,,,,,,https://polymarket.com/event/tesla-launches-unsupervised-full-self-driving-fsd-by-march-31
+2025-12-21T21:55:14.188727,"Will the price of Bitcoin be between $84,000 and $86,000 on December 22?",0.040,0.070,0.030,6206,154.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-84000-86000-on-december-22
+2025-12-21T21:55:14.188848,"Will the price of Bitcoin be between $86,000 and $88,000 on December 22?",0.260,0.300,0.040,32560,154.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-86000-88000-on-december-22
+2025-12-21T21:55:14.188931,"Will the price of Bitcoin be between $88,000 and $90,000 on December 22?",0.450,0.470,0.020,12859,154.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-88000-90000-on-december-22
+2025-12-21T21:55:14.189076,"Will the price of Ethereum be above $2,900 on December 22?",0.900,0.930,0.030,21713,154.9,,,,,,https://polymarket.com/event/ethereum-above-2900-on-december-22
+2025-12-21T21:55:14.189151,"Will the price of Ethereum be above $3,000 on December 22?",0.610,0.640,0.030,10852,154.9,,,,,,https://polymarket.com/event/ethereum-above-3000-on-december-22
+2025-12-21T21:55:14.189216,"Will the price of Bitcoin be between $90,000 and $92,000 on December 22?",0.170,0.210,0.040,29896,154.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-90000-92000-on-december-22
+2025-12-21T21:55:14.189280,"Will the price of Ethereum be above $3,100 on December 22?",0.170,0.200,0.030,17287,154.9,,,,,,https://polymarket.com/event/ethereum-above-3100-on-december-22
+2025-12-21T21:55:14.189459,Will the price of Solana be between $110 and $120 on December 22?,0.030,0.067,0.037,14882,154.9,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-110-120-on-december-22
+2025-12-21T21:55:14.189526,Will the price of Solana be between $120 and $130 on December 22?,0.770,0.800,0.030,21413,154.9,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-120-130-on-december-22
+2025-12-21T21:55:14.189593,Will the price of Solana be between $130 and $140 on December 22?,0.130,0.160,0.030,6801,154.9,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-130-140-on-december-22
+2025-12-21T21:55:14.189708,Will the price of XRP be between $1.80 and $1.90 on December 22?,0.300,0.340,0.040,7329,154.9,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt80-1pt90-on-december-22
+2025-12-21T21:55:14.189773,Will the price of XRP be between $2.00 and $2.10 on December 22?,0.060,0.090,0.030,19018,154.9,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-2pt00-2pt10-on-december-22
+2025-12-21T21:55:14.189873,José Luís Rodríguez Zapatero arrested by March 31?,0.110,0.140,0.030,7325,154.8,,,,,,https://polymarket.com/event/jos-lus-rodrguez-zapatero-arrested-by-march-31
+2025-12-21T21:55:14.189937,Next Thai Prime Minister Chosen by March 31?,0.750,0.770,0.020,5538,154.5,,,,,,https://polymarket.com/event/next-thai-prime-minister-chosen-by-march-31
+2025-12-21T21:55:14.190363,Octra FDV above $100M one day after launch?,0.640,0.690,0.050,21009,150.1,,,,,,https://polymarket.com/event/octra-fdv-above-100m-one-day-after-launch
+2025-12-21T21:55:14.190535,Octra FDV above $200M one day after launch?,0.310,0.330,0.020,11998,150.1,,,,,,https://polymarket.com/event/octra-fdv-above-200m-one-day-after-launch
+2025-12-21T21:55:14.190596,Octra FDV above $300M one day after launch?,0.110,0.150,0.040,12603,150.1,,,,,,https://polymarket.com/event/octra-fdv-above-300m-one-day-after-launch
+2025-12-21T21:55:14.190781,Washington State vs. Utah State,0.500,0.510,0.010,5781,148.9,,,,,,https://polymarket.com/event/cfb-washst-utahst-2025-12-22
+2025-12-21T21:55:14.191077,"Will Elon Musk post 260-279 tweets from December 19 to December 26, 2025?",0.060,0.070,0.010,68767,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-260-279
+2025-12-21T21:55:14.191145,"Will Elon Musk post 280-299 tweets from December 19 to December 26, 2025?",0.080,0.090,0.010,51605,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-280-299
+2025-12-21T21:55:14.191210,"Will Elon Musk post 300-319 tweets from December 19 to December 26, 2025?",0.130,0.140,0.010,51296,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-300-319
+2025-12-21T21:55:14.191275,"Will Elon Musk post 320-339 tweets from December 19 to December 26, 2025?",0.130,0.150,0.020,47630,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-320-339
+2025-12-21T21:55:14.191340,"Will Elon Musk post 340-359 tweets from December 19 to December 26, 2025?",0.130,0.140,0.010,46716,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-340-359
+2025-12-21T21:55:14.191409,"Will Elon Musk post 360-379 tweets from December 19 to December 26, 2025?",0.113,0.115,0.002,49735,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-360-379
+2025-12-21T21:55:14.191470,"Will Elon Musk post 380-399 tweets from December 19 to December 26, 2025?",0.074,0.079,0.005,46708,142.9,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-380-399
+2025-12-21T21:55:14.191561,Big Bash League: Sydney Thunder vs Brisbane Heat (Game 1),0.510,0.530,0.020,14263,142.9,,,,,,https://polymarket.com/event/craus-syd2-bri-2025-12-22
+2025-12-21T21:55:14.191959,ILT20: Abu Dhabi Knight Riders vs Sharjah Warriorz (Game 1),0.560,0.600,0.040,6000,142.9,,,,,,https://polymarket.com/event/cruae-abu-sha-2025-12-22
+2025-12-21T21:55:14.192315,Spread: FC Internazionale Milano (-1.5),0.220,0.240,0.020,10897,141.9,,,,,,https://polymarket.com/event/sea-ata-int-2025-12-28-spread-away-1pt5
+2025-12-21T21:55:14.192671,Spread: SS Lazio (-1.5),0.150,0.180,0.030,10989,141.9,,,,,,https://polymarket.com/event/sea-udi-laz-2025-12-27-spread-away-1pt5
+2025-12-21T21:55:14.192896,Spread: ACF Fiorentina (-1.5),0.160,0.220,0.060,11221,141.9,,,,,,https://polymarket.com/event/sea-par-fio-2025-12-27-spread-away-1pt5
+2025-12-21T21:55:14.193158,Rams vs. Falcons,0.770,0.780,0.010,8948,134.9,,,,,,https://polymarket.com/event/nfl-la-atl-2025-12-29
+2025-12-21T21:55:14.193657,Will Fidesz – Hungarian Civic Alliance (Fidesz) win the most seats in the next Hungarian parliamentary election?,0.420,0.430,0.010,6379,133.8,,,,,,https://polymarket.com/event/will-fidesz-hungarian-civic-alliance-fidesz-win-the-most-seats-in-the-next-hungarian-parliamentary-election
+2025-12-21T21:55:14.193844,Hornets vs. Cavaliers,0.220,0.230,0.010,48478,132.9,,,,,,https://polymarket.com/event/nba-cha-cle-2025-12-22
+2025-12-21T21:55:14.193929,Pacers vs. Celtics,0.190,0.200,0.010,20212,132.9,,,,,,https://polymarket.com/event/nba-ind-bos-2025-12-22
+2025-12-21T21:55:14.194331,"Will ""Man Vs Baby"" be the top global Netflix show this week? (December 23, 2025)",0.120,0.135,0.015,49907,132.6,,,,,,https://polymarket.com/event/will-man-vs-baby-be-the-top-global-netflix-show-this-week-december-23-2025
+2025-12-21T21:55:14.194436,"Will ""Jake Paul vs. Anthony Joshua"" be the top global Netflix show this week? (December 23, 2025)",0.840,0.850,0.010,39055,132.6,,,,,,https://polymarket.com/event/will-jake-paul-vs-anthony-joshua-be-the-top-global-netflix-show-this-week-december-23-2025
+2025-12-21T21:55:14.194587,"Will ""Man Vs Baby"" be the #2 global Netflix show this week? (December 23, 2025)",0.110,0.120,0.010,13842,132.5,,,,,,https://polymarket.com/event/will-man-vs-baby-be-the-2-global-netflix-show-this-week-december-23-2025
+2025-12-21T21:55:14.194671,"Will ""Emily in Paris: Season 5"" be the #2 global Netflix show this week? (December 23, 2025)",0.680,0.720,0.040,5866,132.5,,,,,,https://polymarket.com/event/will-emily-in-paris-season-5-be-the-2-global-netflix-show-this-week-december-23-2025
+2025-12-21T21:55:14.194760,"Will ""Wake Up Dead Man"" be the top global Netflix movie this week? (December 23, 2025)",0.912,0.950,0.038,10206,132.3,,,,,,https://polymarket.com/event/will-wake-up-dead-man-be-the-top-global-netflix-movie-this-week-december-23-2025
+2025-12-21T21:55:14.194883,"Will ""Emily in Paris: Season 5"" be the top US Netflix show this week? (December 23, 2025)",0.011,0.056,0.045,16675,132.2,,,,,,https://polymarket.com/event/will-emily-in-paris-season-5-be-the-top-us-netflix-show-this-week-december-23-2025
+2025-12-21T21:55:14.195135,Susie Wiles out as White House Chief of Staff by March 31?,0.110,0.130,0.020,7043,131.1,,,,,,https://polymarket.com/event/susie-wiles-out-as-white-house-chief-of-staff-by-march-31
+2025-12-21T21:55:14.195248,"Will the price of Bitcoin be between $84,000 and $86,000 on December 23?",0.110,0.120,0.010,9297,130.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-84000-86000-on-december-23
+2025-12-21T21:55:14.195331,"Will the price of Ethereum be above $3,200 on December 23?",0.094,0.114,0.020,5379,130.9,,,,,,https://polymarket.com/event/ethereum-above-3200-on-december-23
+2025-12-21T21:55:14.195431,"Will the price of Bitcoin be above $84,000 on December 23?",0.941,0.948,0.007,33401,130.9,,,,,,https://polymarket.com/event/bitcoin-above-84k-on-december-23
+2025-12-21T21:55:14.195501,"Will the price of Bitcoin be above $86,000 on December 23?",0.840,0.870,0.030,17110,130.9,,,,,,https://polymarket.com/event/bitcoin-above-86k-on-december-23
+2025-12-21T22:02:40.196840,"Will the price of Bitcoin be above $88,000 on December 23?",0.600,0.640,0.040,6822,131.0,,,,,,https://polymarket.com/event/bitcoin-above-88k-on-december-23
+2025-12-21T22:02:40.197318,"Will the price of Bitcoin be above $90,000 on December 23?",0.310,0.340,0.030,6116,131.0,,,,,,https://polymarket.com/event/bitcoin-above-90k-on-december-23
+2025-12-21T22:02:40.197473,"Will the price of Bitcoin be above $92,000 on December 23?",0.100,0.130,0.030,12258,131.0,,,,,,https://polymarket.com/event/bitcoin-above-92k-on-december-23
+2025-12-21T22:02:40.197608,Will the price of Solana be between $110 and $120 on December 23?,0.110,0.150,0.040,7970,131.0,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-110-120-on-december-23
+2025-12-21T22:02:40.197771,Will the price of Solana be between $120 and $130 on December 23?,0.580,0.620,0.040,5765,131.0,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-120-130-on-december-23
+2025-12-21T22:02:40.197911,Will the price of Solana be above $120 on December 23?,0.850,0.890,0.040,7453,131.0,,,,,,https://polymarket.com/event/solana-above-120-on-december-23
+2025-12-21T22:02:40.198034,Will the price of XRP be between $1.80 and $1.90 on December 23?,0.310,0.330,0.020,6795,131.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt80-1pt90-on-december-23
+2025-12-21T22:02:40.198116,Will the price of XRP be between $2.00 and $2.10 on December 23?,0.120,0.150,0.030,10755,131.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-2pt00-2pt10-on-december-23
+2025-12-21T22:02:40.198211,Will the price of XRP be above $1.80 on December 23?,0.900,0.940,0.040,14849,131.0,,,,,,https://polymarket.com/event/xrp-above-1pt8-on-december-23
+2025-12-21T22:02:40.198287,Will the price of XRP be above $2.00 on December 23?,0.160,0.200,0.040,37607,131.0,,,,,,https://polymarket.com/event/xrp-above-2-on-december-23
+2025-12-21T22:02:40.198665,"Will the US officially declare war on Venezuela by June 30, 2026?",0.040,0.052,0.012,25503,128.7,,,,,,https://polymarket.com/event/will-the-us-officially-declare-war-on-venezuela-by-june-30-2026
+2025-12-21T22:02:40.199237,Will Chelsea FC win on 2025-12-30?,0.600,0.620,0.020,12963,119.0,,,,,,https://polymarket.com/event/epl-che-bou-2025-12-30-che
+2025-12-21T22:02:40.199531,"Will Strategy (MicroStrategy) (MSTR) be added to the S&P 500 by March 31, 2026?",0.040,0.050,0.010,5357,112.0,,,,,,https://polymarket.com/event/will-strategy-microstrategy-mstr-be-added-to-the-sp-500-by-march-31-2026
+2025-12-21T22:02:40.199892,Will the AAVE token alignment proposal pass?,0.250,0.350,0.100,19860,107.8,,,,,,https://polymarket.com/event/will-the-aave-token-alignment-proposal-pass
+2025-12-21T22:02:40.200235,"Will the price of Bitcoin be above $92,000 on December 24?",0.150,0.180,0.030,5975,107.0,,,,,,https://polymarket.com/event/bitcoin-above-92k-on-december-24
+2025-12-21T22:02:40.200335,Will the price of Solana be between $110 and $120 on December 24?,0.140,0.190,0.050,5309,107.0,,,,,,https://polymarket.com/event/will-the-price-of-solana-be-between-110-120-on-december-24
+2025-12-21T22:02:40.200456,Will the price of XRP be between $1.80 and $1.90 on December 24?,0.260,0.310,0.050,6441,107.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt80-1pt90-on-december-24
+2025-12-21T22:02:40.200595,Will the price of Solana be above $120 on December 24?,0.790,0.850,0.060,5367,107.0,,,,,,https://polymarket.com/event/solana-above-120-on-december-24
+2025-12-21T22:02:40.200743,Will the price of XRP be between $2.00 and $2.10 on December 24?,0.140,0.170,0.030,7558,107.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-2pt00-2pt10-on-december-24
+2025-12-21T22:02:40.200888,Will the price of XRP be above $1.80 on December 24?,0.830,0.880,0.050,14043,107.0,,,,,,https://polymarket.com/event/xrp-above-1pt8-on-december-24
+2025-12-21T22:02:40.200973,Will the price of XRP be above $2.00 on December 24?,0.200,0.250,0.050,20008,107.0,,,,,,https://polymarket.com/event/xrp-above-2-on-december-24
+2025-12-21T22:02:40.201210,Enhanced ACA premium tax credits extended by January 31?,0.450,0.470,0.020,11396,105.7,,,,,,https://polymarket.com/event/enhanced-aca-premium-tax-credits-extended-by-january-31
+2025-12-21T22:02:40.201329,Will Senegal win the CAF Africa Cup of Nations Morocco 2025?,0.160,0.190,0.030,9298,104.8,,,,,,https://polymarket.com/event/will-senegal-win-the-caf-africa-cup-of-nations-morocco-2025
+2025-12-21T22:02:40.201648,"Thailand x Cambodia ceasefire by January 31, 2026?",0.680,0.700,0.020,20869,103.8,,,,,,https://polymarket.com/event/thailand-x-cambodia-ceasefire-by-january-31-2026
+2025-12-21T22:02:40.201781,"Will the U.S. invade Venezuela by January 31, 2026?",0.080,0.110,0.030,15925,103.7,,,,,,https://polymarket.com/event/will-the-us-invade-venezuela-by-january-31-2026
+2025-12-21T22:02:40.201893,Will Russia capture Huliaipole by January 15?,0.710,0.740,0.030,10055,103.4,,,,,,https://polymarket.com/event/will-russia-capture-huliaipole-by-january-15
+2025-12-21T22:02:40.202045,Will Russia capture all of Pokrovsk by January 31?,0.460,0.500,0.040,5606,103.3,,,,,,https://polymarket.com/event/will-russia-capture-all-of-pokrovsk-by-january-31
+2025-12-21T22:02:40.202560,Putin out as President of Russia by June 30?,0.077,0.081,0.004,17539,101.2,,,,,,https://polymarket.com/event/putin-out-as-president-of-russia-by-june-30
+2025-12-21T22:02:40.203103,"Will the price of Ethereum be above $2,700 on December 25?",0.925,0.950,0.025,7947,83.0,,,,,,https://polymarket.com/event/ethereum-above-2700-on-december-25
+2025-12-21T22:02:40.203215,"Will the price of Ethereum be above $2,800 on December 25?",0.870,0.910,0.040,5741,83.0,,,,,,https://polymarket.com/event/ethereum-above-2800-on-december-25
+2025-12-21T22:02:40.203475,Will the price of Solana be above $120 on December 25?,0.760,0.800,0.040,5108,83.0,,,,,,https://polymarket.com/event/solana-above-120-on-december-25
+2025-12-21T22:02:40.203633,Will the price of XRP be above $1.80 on December 25?,0.810,0.860,0.050,11942,83.0,,,,,,https://polymarket.com/event/xrp-above-1pt8-on-december-25
+2025-12-21T22:02:40.203835,Will the price of XRP be above $2.00 on December 25?,0.230,0.280,0.050,13434,83.0,,,,,,https://polymarket.com/event/xrp-above-2-on-december-25
+2025-12-21T22:02:40.203929,Will the price of XRP be between $1.80 and $1.90 on December 25?,0.240,0.280,0.040,5933,83.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt80-1pt90-on-december-25
+2025-12-21T22:02:40.204027,Will the price of XRP be between $2.00 and $2.10 on December 25?,0.140,0.170,0.030,6762,83.0,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-2pt00-2pt10-on-december-25
+2025-12-21T22:02:40.204410,"Will Leavitt say ""More"" or ""Again"" 22+ times during the next White House press briefing?",0.500,0.580,0.080,10824,81.9,,,,,,https://polymarket.com/event/will-leavitt-say-more-or-again-22-times-during-the-next-white-house-press-briefing
+2025-12-21T22:02:40.204565,Will NVIDIA be the largest company in the world by market cap on January 31?,0.840,0.850,0.010,47641,81.9,,,,,,https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-january-31-985
+2025-12-21T22:02:40.206212,Will Apple be the largest company in the world by market cap on January 31?,0.130,0.140,0.010,30296,81.9,,,,,,https://polymarket.com/event/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-january-31-756
+2025-12-21T22:02:40.206407,Will NVIDIA be the second-largest company in the world by market cap on January 31?,0.050,0.070,0.020,6338,81.7,,,,,,https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-january-31
+2025-12-21T22:02:40.207716,Will Apple be the second-largest company in the world by market cap on January 31?,0.870,0.900,0.030,14718,81.7,,,,,,https://polymarket.com/event/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-january-31
+2025-12-21T22:02:40.208649,"Maduro out by February 28, 2026?",0.270,0.290,0.020,25844,81.3,,,,,,https://polymarket.com/event/maduro-out-by-february-28-2026
+2025-12-21T22:02:40.209345,Will Mali win on 2025-12-22?,0.590,0.600,0.010,5960,80.3,,,,,,https://polymarket.com/event/acn-mli-zam-2025-12-22-mli
+2025-12-21T22:02:40.210169,Trump invokes War Powers against Venezuela by January 31?,0.190,0.200,0.010,10645,79.9,,,,,,https://polymarket.com/event/trump-invokes-war-powers-against-venezuela-by-january-31
+2025-12-21T22:02:40.210404,LoL: Oh My God vs JD Gaming (BO3),0.410,0.420,0.010,45887,77.6,,,,,,https://polymarket.com/event/lol-omg-jdg-2025-12-22
+2025-12-21T22:02:40.210531,LoL: LGD Gaming vs Invictus Gaming (BO3),0.540,0.550,0.010,31900,77.5,,,,,,https://polymarket.com/event/lol-lgd-ig1-2025-12-22
+2025-12-21T22:02:40.210652,Games Total: O/U 2.5,0.460,0.510,0.050,11119,77.5,,,,,,https://polymarket.com/event/lol-lgd-ig1-2025-12-22-total-games-2pt5
+2025-12-21T22:02:40.210763,LoL: Bilibili Gaming vs LNG Esports (BO3),0.830,0.840,0.010,21500,77.5,,,,,,https://polymarket.com/event/lol-blg-lng-2025-12-22
+2025-12-21T22:02:40.210925,"Will Trove launch a token by September 30, 2026?",0.910,0.940,0.030,5817,77.1,,,,,,https://polymarket.com/event/will-trove-launch-a-token-by-september-30-2026
+2025-12-21T22:02:40.211132,Will the highest temperature in Seattle be between 50-51°F on December 21?,0.000,0.076,0.076,5692,65.0,,,,,,https://polymarket.com/event/highest-temperature-in-seattle-on-december-21-50-51f
+2025-12-21T22:02:40.211314,Will Israel strike Lebanon on December 22?,0.330,0.360,0.030,26906,64.0,,,,,,https://polymarket.com/event/will-israel-strike-lebanon-on-december-22
+2025-12-21T22:10:07.581345,Will the price of XRP be between $1.90 and $2.00 on December 23?,0.380,0.420,0.040,13540,131.2,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt90-2pt00-on-december-23
+2025-12-21T22:10:07.585001,Will Israel strike Gaza on December 22?,0.500,0.560,0.060,23297,64.0,,,,,,https://polymarket.com/event/will-israel-strike-gaza-on-december-22
+2025-12-21T22:10:07.585215,Rockets vs. Lakers,0.530,0.580,0.050,5233,61.2,,,,,,https://polymarket.com/event/nba-hou-lal-2025-12-25
+2025-12-21T22:10:07.585292,Spread: Lakers (-2.5),0.260,0.450,0.190,10986,61.2,,,,,,https://polymarket.com/event/nba-hou-lal-2025-12-25-spread-home-2pt5
+2025-12-21T22:10:07.585369,Spread: Nuggets (-5.5),0.440,0.550,0.110,10910,61.2,,,,,,https://polymarket.com/event/nba-min-den-2025-12-25-spread-home-5pt5
+2025-12-21T22:10:07.585463,Will ChatGPT be #1 Free App in the US Apple App Store on December 26?,0.710,0.740,0.030,9226,60.3,,,,,,https://polymarket.com/event/will-chatgpt-be-1-free-app-in-the-us-apple-app-store-on-december-26-686
+2025-12-21T22:10:07.585869,Will All I Want For Christmas Is You - Mariah Carey be the #1 song on Spotify this week?,0.630,0.700,0.070,12166,58.4,,,,,,https://polymarket.com/event/will-all-i-want-for-christmas-is-you-mariah-carey-be-the-1-song-on-spotify-this-week-393
+2025-12-21T22:10:07.585939,Will Last Christmas - Wham! be the #1 song on Spotify this week?,0.300,0.330,0.030,9626,58.4,,,,,,https://polymarket.com/event/will-last-christmas-wham-be-the-1-song-on-spotify-this-week-147
+2025-12-21T22:10:07.586151,Trove FDV above $60M one day after launch?,0.130,0.140,0.010,13023,56.7,,,,,,https://polymarket.com/event/trove-fdv-above-60m-one-day-after-launch
+2025-12-21T22:10:07.586220,Trove FDV above $80M one day after launch?,0.090,0.110,0.020,6302,56.7,,,,,,https://polymarket.com/event/trove-fdv-above-80m-one-day-after-launch
+2025-12-21T22:10:07.586321,Will Rose Byrne be nominated for Best Actress in a Motion Picture at the 2026 SAG Awards?,0.430,0.580,0.150,6010,56.4,,,,,,https://polymarket.com/event/will-rose-byrne-be-nominated-for-best-actress-in-a-motion-picture-at-the-2026-sag-awards
+2025-12-21T22:10:07.586438,Will Gwyneth Paltrow be nominated for Best Supporting Actress in a Motion Picture at the 2026 SAG Awards?,0.560,0.660,0.100,6600,55.4,,,,,,https://polymarket.com/event/will-gwyneth-paltrow-be-nominated-for-best-supporting-actress-in-a-motion-picture-at-the-2026-sag-awards
+2025-12-21T22:10:07.586957,Will Apple (AAPL) finish week of December 22 above $260?,0.820,0.930,0.110,10671,53.2,,,,,,https://polymarket.com/event/aapl-above-260-on-december-26-2025
+2025-12-21T22:10:07.587226,Will Google (GOOGL) finish week of December 22 above $305?,0.660,0.670,0.010,10414,53.2,,,,,,https://polymarket.com/event/googl-above-305-on-december-26-2025
+2025-12-21T22:10:07.587651,Bill Clinton divorce by June 30?,0.060,0.070,0.010,31563,53.1,,,,,,https://polymarket.com/event/bill-clinton-divorce-by-june-30
+2025-12-21T22:10:07.587711,US strike on Syria by December 31?,0.110,0.120,0.010,30960,52.8,,,,,,https://polymarket.com/event/us-strike-on-syria-by-december-31-426
+2025-12-21T22:10:07.587823,"Will Elon Musk post 200-219 tweets from December 23 to December 30, 2025?",0.060,0.070,0.010,15197,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-200-219
+2025-12-21T22:10:07.587885,"Will Elon Musk post 220-239 tweets from December 23 to December 30, 2025?",0.070,0.080,0.010,16744,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-220-239
+2025-12-21T22:10:07.587949,"Will Elon Musk post 240-259 tweets from December 23 to December 30, 2025?",0.070,0.090,0.020,15962,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-240-259
+2025-12-21T22:10:07.588010,"Will Elon Musk post 260-279 tweets from December 23 to December 30, 2025?",0.090,0.100,0.010,16207,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-260-279
+2025-12-21T22:10:07.588069,"Will Elon Musk post 280-299 tweets from December 23 to December 30, 2025?",0.090,0.110,0.020,18382,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-280-299
+2025-12-21T22:10:07.588126,"Will Elon Musk post 300-319 tweets from December 23 to December 30, 2025?",0.090,0.100,0.010,16857,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-300-319
+2025-12-21T22:10:07.588188,"Will Elon Musk post 320-339 tweets from December 23 to December 30, 2025?",0.090,0.100,0.010,19031,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-320-339
+2025-12-21T22:10:07.588283,"Will Elon Musk post 340-359 tweets from December 23 to December 30, 2025?",0.070,0.080,0.010,15952,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-340-359
+2025-12-21T22:10:07.588347,"Will Elon Musk post 360-379 tweets from December 23 to December 30, 2025?",0.060,0.080,0.020,16965,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-360-379
+2025-12-21T22:10:07.588415,"Will Elon Musk post 380-399 tweets from December 23 to December 30, 2025?",0.060,0.070,0.010,18226,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-380-399
+2025-12-21T22:10:07.588481,"Will Elon Musk post 400-419 tweets from December 23 to December 30, 2025?",0.060,0.062,0.002,22108,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-400-419
+2025-12-21T22:10:07.588547,"Will Elon Musk post 420-439 tweets from December 23 to December 30, 2025?",0.057,0.058,0.001,20901,47.2,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-23-december-30-420-439
+2025-12-21T22:10:07.588844,Rayo Vallecano de Madrid vs. Getafe CF: O/U 4.5,0.040,0.100,0.060,11027,44.2,,,,,,https://polymarket.com/event/lal-ray-get-2026-01-02-total-4pt5
+2025-12-21T22:10:07.589463,Bitcoin Up or Down on December 22?,0.590,0.610,0.020,50240,35.2,,,,,,https://polymarket.com/event/bitcoin-up-or-down-on-december-22
+2025-12-21T22:10:07.589576,Ethereum Up or Down on December 22?,0.670,0.680,0.010,33830,35.2,,,,,,https://polymarket.com/event/ethereum-up-or-down-on-december-22
+2025-12-21T22:10:07.589669,Solana Up or Down on December 22?,0.560,0.580,0.020,10952,35.2,,,,,,https://polymarket.com/event/solana-up-or-down-on-december-22
+2025-12-21T22:10:07.589751,XRP Up or Down on December 22?,0.580,0.610,0.030,8051,35.2,,,,,,https://polymarket.com/event/xrp-up-or-down-on-december-22
+2025-12-21T22:10:07.590151,"Bitcoin Up or Down - December 22, 7PM ET",0.490,0.510,0.020,7306,28.2,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-22-7pm-et
+2025-12-21T22:10:07.590411,"Ethereum Up or Down - December 21, 11:00PM-11:15PM ET",0.480,0.490,0.010,37852,24.1,,,,,,https://polymarket.com/event/eth-updown-15m-1766376000
+2025-12-21T22:10:07.590479,"Bitcoin Up or Down - December 21, 11:00PM-11:15PM ET",0.480,0.490,0.010,38441,24.1,,,,,,https://polymarket.com/event/btc-updown-15m-1766376000
+2025-12-21T22:10:07.590577,"Bitcoin Up or Down - December 21, 11:15PM-11:30PM ET",0.500,0.510,0.010,36269,23.9,,,,,,https://polymarket.com/event/btc-updown-15m-1766376900
+2025-12-21T22:10:07.590641,"Ethereum Up or Down - December 21, 11:15PM-11:30PM ET",0.490,0.500,0.010,38282,23.9,,,,,,https://polymarket.com/event/eth-updown-15m-1766376900
+2025-12-21T22:10:07.593413,Rockets vs. Kings: O/U 223.5,0.700,0.900,0.200,44784,15.0,,,,,,https://polymarket.com/event/nba-hou-sac-2025-12-21-total-223pt5
+2025-12-21T22:35:33.548118,"Will the price of Ethereum be above $2,800 on December 23?",0.930,0.950,0.020,8052,131.6,,,,,,https://polymarket.com/event/ethereum-above-2800-on-december-23
+2025-12-21T22:35:33.551933,Will Tunisia win on 2025-12-27?,0.370,0.550,0.180,10888,80.8,,,,,,https://polymarket.com/event/acn-nga-tun-2025-12-27-tun
+2025-12-21T22:35:33.552122,Will Zambia vs. Morocco end in a draw?,0.080,0.260,0.180,11076,80.8,,,,,,https://polymarket.com/event/acn-zam-mar-2025-12-29-draw
+2025-12-21T22:35:33.552767,Will the highest temperature in Seattle be between 48-49°F on December 21?,0.000,0.099,0.099,6577,65.6,,,,,,https://polymarket.com/event/highest-temperature-in-seattle-on-december-21-48-49f
+2025-12-21T22:35:33.553446,Will Rockin' Around The Christmas Tree - Brenda Lee be the #1 song on Spotify this week?,0.002,0.085,0.083,7230,58.8,,,,,,https://polymarket.com/event/will-rockin-around-the-christmas-tree-brenda-lee-be-the-1-song-on-spotify-this-week-515
+2025-12-21T22:35:33.554995,"Bitcoin Up or Down - December 21, 11PM ET",0.520,0.530,0.010,10883,48.6,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-21-11pm-et
+2025-12-21T22:35:33.556828,"Bitcoin Up or Down - December 21, 11:45PM-12:00AM ET",0.490,0.500,0.010,45125,23.8,,,,,,https://polymarket.com/event/btc-updown-15m-1766378700
+2025-12-21T22:35:33.556980,"Ethereum Up or Down - December 21, 11:45PM-12:00AM ET",0.490,0.510,0.020,11086,23.8,,,,,,https://polymarket.com/event/eth-updown-15m-1766378700
+2025-12-21T22:42:58.007879,Thunder vs. Spurs,0.650,0.700,0.050,8876,109.7,,,,,,https://polymarket.com/event/nba-okc-sas-2025-12-23
+2025-12-21T22:42:58.011149,Spurs vs. Thunder,0.210,0.250,0.040,6894,61.7,,,,,,https://polymarket.com/event/nba-sas-okc-2025-12-25
+2025-12-21T22:42:58.015138,"Ethereum Up or Down - December 21, 11:30PM-11:45PM ET",0.450,0.460,0.010,29366,24.2,,,,,,https://polymarket.com/event/eth-updown-15m-1766377800
+2025-12-21T22:42:58.015314,"Bitcoin Up or Down - December 21, 11:30PM-11:45PM ET",0.460,0.470,0.010,33710,24.2,,,,,,https://polymarket.com/event/btc-updown-15m-1766377800
+2025-12-21T22:42:58.015782,"Ethereum Up or Down - December 22, 12:00AM-12:15AM ET",0.490,0.510,0.020,5480,23.7,,,,,,https://polymarket.com/event/eth-updown-15m-1766379600
+2025-12-21T22:42:58.015919,"XRP Up or Down - December 22, 12:15AM-12:30AM ET",0.490,0.510,0.020,29818,23.4,,,,,,https://polymarket.com/event/xrp-updown-15m-1766380500
+2025-12-21T22:50:22.811285,Bears vs. 49ers,0.420,0.440,0.020,10033,159.8,,,,,,https://polymarket.com/event/nfl-chi-sf-2025-12-28
+2025-12-21T22:50:22.814059,"Will ""Jake Paul vs. Anthony Joshua"" be the top US Netflix show this week? (December 23, 2025)",0.935,0.944,0.009,5422,133.1,,,,,,https://polymarket.com/event/will-jake-paul-vs-anthony-joshua-be-the-top-us-netflix-show-this-week-december-23-2025
+2025-12-21T22:50:22.815356,Will Arsenal FC win on 2025-12-30?,0.650,0.670,0.020,9324,119.8,,,,,,https://polymarket.com/event/epl-ars-ast-2025-12-30-ars
+2025-12-21T22:50:22.820448,"Ethereum Up or Down - December 21, 11PM ET",0.910,0.930,0.020,6630,48.8,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-21-11pm-et
+2025-12-21T22:50:22.822537,"Bitcoin Up or Down - December 22, 12:00AM-12:15AM ET",0.500,0.510,0.010,35770,23.8,,,,,,https://polymarket.com/event/btc-updown-15m-1766379600
+2025-12-21T22:57:48.300825,Will the highest temperature in Seoul be 6°C or higher on December 22?,0.001,0.077,0.076,6145,42.0,,,,,,https://polymarket.com/event/highest-temperature-in-seoul-on-december-22-6corhigher
+2025-12-21T22:57:48.302211,Rockets vs. Kings: O/U 230.5,0.370,0.570,0.200,5043,32.8,,,,,,https://polymarket.com/event/nba-hou-sac-2025-12-21-total-230pt5
+2025-12-21T23:05:16.263865,"Will the price of Bitcoin be between $92,000 and $94,000 on December 22?",0.026,0.052,0.026,32760,156.1,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-92000-94000-on-december-22
+2025-12-21T23:05:16.273869,"Ethereum Up or Down - December 22, 12:15AM-12:30AM ET",0.490,0.510,0.020,13460,23.8,,,,,,https://polymarket.com/event/eth-updown-15m-1766380500
+2025-12-21T23:05:16.274102,"Bitcoin Up or Down - December 22, 12:15AM-12:30AM ET",0.490,0.500,0.010,38108,23.8,,,,,,https://polymarket.com/event/btc-updown-15m-1766380500
+2025-12-21T23:05:16.274549,Rockets vs. Kings: O/U 226.5,0.530,0.720,0.190,6089,22.9,,,,,,https://polymarket.com/event/nba-hou-sac-2025-12-21-total-226pt5
+2025-12-21T23:12:44.108355,New Haven Chargers vs. Fordham Rams,0.110,0.180,0.070,5769,134.2,,,,,,https://polymarket.com/event/cbb-nhvn-fordm-2025-12-22
+2025-12-21T23:20:09.428242,Will Google (GOOGL) finish week of December 22 above $295?,0.780,0.950,0.170,10769,54.3,,,,,,https://polymarket.com/event/googl-above-295-on-december-26-2025
+2025-12-21T23:20:09.428880,"Bitcoin Up or Down - December 22, 12AM ET",0.420,0.430,0.010,10752,48.3,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-22-12am-et
+2025-12-21T23:34:56.270085,"Will the price of Ethereum be between $2,900 and $3,000 on December 22?",0.270,0.290,0.020,5004,156.6,,,,,,https://polymarket.com/event/will-the-price-of-ethereum-be-between-2900-3000-on-december-22
+2025-12-21T23:34:56.277773,"Ethereum Up or Down - December 22, 12AM ET",0.200,0.220,0.020,5430,48.6,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-22-12am-et
+2025-12-21T23:34:56.279757,"XRP Up or Down - December 22, 12:30AM-12:45AM ET",0.490,0.510,0.020,17002,24.0,,,,,,https://polymarket.com/event/xrp-updown-15m-1766381400
+2025-12-21T23:34:56.279851,"Bitcoin Up or Down - December 22, 12:30AM-12:45AM ET",0.510,0.520,0.010,34173,24.0,,,,,,https://polymarket.com/event/btc-updown-15m-1766381400
+2025-12-21T23:34:56.279943,"Ethereum Up or Down - December 22, 12:30AM-12:45AM ET",0.500,0.510,0.010,18047,24.0,,,,,,https://polymarket.com/event/eth-updown-15m-1766381400
+2025-12-21T23:34:56.280043,"Bitcoin Up or Down - December 22, 12:45AM-1:00AM ET",0.490,0.510,0.020,45680,23.8,,,,,,https://polymarket.com/event/btc-updown-15m-1766382300
+2025-12-21T23:34:56.280261,"Solana Up or Down - December 22, 1:30AM-1:45AM ET",0.490,0.510,0.020,23201,23.0,,,,,,https://polymarket.com/event/sol-updown-15m-1766385000
+2025-12-21T23:42:47.702286,"Ethereum Up or Down - December 22, 12:45AM-1:00AM ET",0.490,0.510,0.020,12503,23.9,,,,,,https://polymarket.com/event/eth-updown-15m-1766382300
+2025-12-22T09:24:53.399241,"Will the price of Ethereum be between $3,100 and $3,200 on December 22?",0.088,0.139,0.051,5745,166.4,,,,,,https://polymarket.com/event/will-the-price-of-ethereum-be-between-3100-3200-on-december-22
+2025-12-22T09:24:53.399584,Will the price of Solana be above $130 on December 22?,0.100,0.150,0.050,22725,166.4,,,,,,https://polymarket.com/event/solana-above-130-on-december-22
+2025-12-22T09:24:53.399865,Will the price of XRP be between $1.90 and $2.00 on December 22?,0.910,0.940,0.030,15765,166.4,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt90-2pt00-on-december-22
+2025-12-22T09:24:53.400614,"Will Elon Musk post 400-419 tweets from December 19 to December 26, 2025?",0.048,0.052,0.004,51328,154.4,,,,,,https://polymarket.com/event/elon-musk-of-tweets-december-19-december-26-400-419
+2025-12-22T09:24:53.401477,Spread: Utah State (-2.5),0.470,0.490,0.020,6818,144.0,,,,,,https://polymarket.com/event/cfb-washst-utahst-2025-12-22-spread-home-2pt5
+2025-12-22T09:24:53.401741,KHL: Shanghai Dragons vs. Spartak Moscow,0.430,0.450,0.020,14887,142.9,,,,,,https://polymarket.com/event/khl-sha-spa-2025-12-22
+2025-12-22T09:24:53.401880,"Will the price of Ethereum be above $2,900 on December 23?",0.920,0.940,0.020,6254,142.4,,,,,,https://polymarket.com/event/ethereum-above-2900-on-december-23
+2025-12-22T09:24:53.401940,"Will the price of Bitcoin be between $86,000 and $88,000 on December 23?",0.140,0.170,0.030,30460,142.4,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-86000-88000-on-december-23
+2025-12-22T09:24:53.402066,"Will the price of Bitcoin be above $94,000 on December 23?",0.041,0.057,0.016,26282,142.4,,,,,,https://polymarket.com/event/bitcoin-above-94k-on-december-23
+2025-12-22T09:24:53.402283,Will CF Pachuca win on 2026-01-10?,0.210,0.240,0.030,10825,141.7,,,,,,https://polymarket.com/event/mex-gua-pac-2026-01-10-pac
+2025-12-22T09:24:53.402721,Texans vs. Chargers: O/U 39.5,0.490,0.520,0.030,12014,131.2,,,,,,https://polymarket.com/event/nfl-hou-lac-2025-12-27-total-39pt5
+2025-12-22T09:24:53.402797,Cowboys vs. Commanders: O/U 48.5,0.560,0.590,0.030,19514,131.2,,,,,,https://polymarket.com/event/nfl-dal-was-2025-12-25-total-48pt5
+2025-12-22T09:24:53.403002,Trump's travel ban removed by January 31?,0.100,0.120,0.020,6359,122.7,,,,,,https://polymarket.com/event/trumps-travel-ban-removed-by-january-31
+2025-12-22T09:24:53.403092,Nets vs. 76ers,0.230,0.240,0.010,9705,120.4,,,,,,https://polymarket.com/event/nba-bkn-phi-2025-12-23
+2025-12-22T09:24:53.403151,Bucks vs. Pacers,0.540,0.550,0.010,65459,120.4,,,,,,https://polymarket.com/event/nba-mil-ind-2025-12-23
+2025-12-22T09:24:53.403237,Lakers vs. Suns,0.470,0.480,0.010,6377,120.4,,,,,,https://polymarket.com/event/nba-lal-phx-2025-12-23
+2025-12-22T09:24:53.403591,"Will the price of Bitcoin be above $90,000 on December 24?",0.450,0.490,0.040,8662,118.4,,,,,,https://polymarket.com/event/bitcoin-above-90k-on-december-24
+2025-12-22T09:24:53.403699,Will the price of XRP be between $1.70 and $1.80 on December 24?,0.050,0.070,0.020,5514,118.4,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt70-1pt80-on-december-24
+2025-12-22T09:24:53.403762,Will the price of XRP be between $1.90 and $2.00 on December 24?,0.380,0.420,0.040,16223,118.4,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt90-2pt00-on-december-24
+2025-12-22T09:24:53.403923,Spread: Utah State (-1.5),0.500,0.520,0.020,7479,117.0,,,,,,https://polymarket.com/event/cfb-washst-utahst-2025-12-22-spread-home-1pt5
+2025-12-22T09:24:53.404093,"Thailand x Cambodia ceasefire by March 31, 2026?",0.910,0.940,0.030,15737,115.2,,,,,,https://polymarket.com/event/thailand-x-cambodia-ceasefire-by-march-31-2026
+2025-12-22T09:24:53.405104,Will the price of XRP be between $1.70 and $1.80 on December 25?,0.090,0.110,0.020,5768,94.4,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt70-1pt80-on-december-25
+2025-12-22T09:24:53.405182,Will the price of XRP be between $1.90 and $2.00 on December 25?,0.320,0.370,0.050,10272,94.4,,,,,,https://polymarket.com/event/will-the-price-of-xrp-be-between-1pt90-2pt00-on-december-25
+2025-12-22T09:24:53.405503,Will Mali vs. Zambia end in a draw?,0.410,0.420,0.010,8611,91.6,,,,,,https://polymarket.com/event/acn-mli-zam-2025-12-22-draw
+2025-12-22T09:24:53.405564,Will Zambia win on 2025-12-22?,0.110,0.120,0.010,31102,91.6,,,,,,https://polymarket.com/event/acn-mli-zam-2025-12-22-zam
+2025-12-22T09:24:53.405625,Will South Africa win on 2025-12-22?,0.350,0.360,0.010,42697,91.6,,,,,,https://polymarket.com/event/acn-rsa-ang-2025-12-22-rsa
+2025-12-22T09:24:53.405699,Will South Africa vs. Angola end in a draw?,0.350,0.370,0.020,6735,91.6,,,,,,https://polymarket.com/event/acn-rsa-ang-2025-12-22-draw
+2025-12-22T09:24:53.405756,Will Angola win on 2025-12-22?,0.280,0.300,0.020,9317,91.6,,,,,,https://polymarket.com/event/acn-rsa-ang-2025-12-22-ang
+2025-12-22T09:24:53.405811,Will Egypt win on 2025-12-22?,0.730,0.740,0.010,23997,91.6,,,,,,https://polymarket.com/event/acn-egy-zim-2025-12-22-egy
+2025-12-22T09:24:53.405881,Will Zimbabwe win on 2025-12-22?,0.060,0.070,0.010,6682,91.6,,,,,,https://polymarket.com/event/acn-egy-zim-2025-12-22-zim
+2025-12-22T09:24:53.406000,Will Egypt win on 2025-12-26?,0.450,0.530,0.080,10824,91.6,,,,,,https://polymarket.com/event/acn-egy-rsa-2025-12-26-egy
+2025-12-22T09:24:53.406231,Will Senegal win on 2025-12-27?,0.480,0.530,0.050,11020,91.6,,,,,,https://polymarket.com/event/acn-sen-cdr-2025-12-27-sen
+2025-12-22T09:24:53.406545,LoL: Invictus Gaming vs Team WE (BO3),0.590,0.620,0.030,15105,88.9,,,,,,https://polymarket.com/event/lol-ig1-we-2025-12-23
+2025-12-22T09:24:53.406629,LoL: Bilibili Gaming vs Oh My God (BO3),0.850,0.860,0.010,11214,88.9,,,,,,https://polymarket.com/event/lol-blg-omg-2025-12-23
+2025-12-22T09:24:53.406702,LoL: LNG Esports vs Weibo Gaming (BO3),0.300,0.310,0.010,13612,88.9,,,,,,https://polymarket.com/event/lol-lng-wb-2025-12-23
+2025-12-22T09:24:53.407370,"Will ""Anaconda"" Opening Weekend Box Office be less than 19m?",0.660,0.670,0.010,5989,68.9,,,,,,https://polymarket.com/event/will-anaconda-opening-weekend-box-office-be-less-than-19m
+2025-12-22T09:24:53.407495,Trove FDV above $20M one day after launch?,0.300,0.310,0.010,7046,68.0,,,,,,https://polymarket.com/event/trove-fdv-above-20m-one-day-after-launch
+2025-12-22T09:24:53.407738,Will Gemini win the okbet trading competition?,0.050,0.070,0.020,9218,66.2,,,,,,https://polymarket.com/event/will-gemini-win-the-okbet-trading-competition
+2025-12-22T09:24:53.407804,Will WD-40 Company (WDFC) beat quarterly earnings?,0.830,0.900,0.070,9582,66.2,,,,,,https://polymarket.com/event/wdfc-quarterly-earnings-gaap-eps-01-08-2026-1pt45
+2025-12-22T09:24:53.408233,Will Microsoft (MSFT) finish week of December 22 above $480?,0.620,0.760,0.140,10960,64.4,,,,,,https://polymarket.com/event/msft-above-480-on-december-26-2025
+2025-12-22T09:24:53.408332,Will Microsoft (MSFT) finish week of December 22 above $490?,0.280,0.350,0.070,10584,64.4,,,,,,https://polymarket.com/event/msft-above-490-on-december-26-2025
+2025-12-22T09:24:53.408443,Will Amazon (AMZN) finish week of December 22 above $220?,0.820,0.870,0.050,11032,64.4,,,,,,https://polymarket.com/event/amzn-above-220-on-december-26-2025
+2025-12-22T09:24:53.408516,Will Amazon (AMZN) finish week of December 22 above $235?,0.050,0.190,0.140,9945,64.4,,,,,,https://polymarket.com/event/amzn-above-235-on-december-26-2025
+2025-12-22T09:24:53.408632,Will Google (GOOGL) finish week of December 22 above $310?,0.310,0.400,0.090,10603,64.4,,,,,,https://polymarket.com/event/googl-above-310-on-december-26-2025
+2025-12-22T09:24:53.408695,Will Google (GOOGL) finish week of December 22 above $315?,0.150,0.220,0.070,6759,64.4,,,,,,https://polymarket.com/event/googl-above-315-on-december-26-2025
+2025-12-22T09:24:53.408965,Will Netflix (NFLX) finish week of December 22 above $90?,0.500,0.650,0.150,21348,64.4,,,,,,https://polymarket.com/event/nflx-above-90-on-december-26-2025
+2025-12-22T09:24:53.409086,Will Palantir (PLTR) finish week of December 22 above $188?,0.720,0.800,0.080,10968,64.4,,,,,,https://polymarket.com/event/pltr-above-188-on-december-26-2025
+2025-12-22T09:24:53.409576,Will the highest temperature in New York City be 42°F or higher on December 22?,0.060,0.090,0.030,7009,52.4,,,,,,https://polymarket.com/event/highest-temperature-in-nyc-on-december-22-42forhigher
+2025-12-22T09:24:53.409845,"Bitcoin Up or Down - December 22, 10AM ET",0.420,0.440,0.020,11831,48.4,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-22-10am-et
+2025-12-22T09:24:53.410460,"Ethereum Up or Down - December 22, 10AM ET",0.470,0.490,0.020,25724,48.4,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-22-10am-et
+2025-12-22T09:32:03.414080,Will the price of XRP be above $1.90 on December 22?,0.870,0.940,0.070,6804,166.5,,,,,,https://polymarket.com/event/xrp-above-1pt9-on-december-22
+2025-12-22T09:32:03.417891,Will the Powerball jackpot hit $2 billion by December 31?,0.190,0.360,0.170,5300,95.1,,,,,,https://polymarket.com/event/will-the-powerball-jackpot-hit-2-billion-by-december-31
+2025-12-22T09:32:03.419215,"Will the price of Bitcoin be above $96,000 on December 26?",0.070,0.080,0.010,8363,70.5,,,,,,https://polymarket.com/event/bitcoin-above-96k-on-december-26
+2025-12-22T09:32:03.420430,Will Meta (META) finish week of December 22 above $670?,0.310,0.470,0.160,10466,64.5,,,,,,https://polymarket.com/event/meta-above-670-on-december-26-2025
+2025-12-22T09:32:03.421485,"Solana Up or Down - December 22, 10AM ET",0.430,0.470,0.040,10393,48.5,,,,,,https://polymarket.com/event/solana-up-or-down-december-22-10am-et
+2025-12-22T09:32:03.421631,"Ethereum Up or Down - December 22, 11AM ET",0.490,0.510,0.020,21390,47.5,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-22-11am-et
+2025-12-22T09:32:03.421712,"XRP Up or Down - December 22, 11AM ET",0.490,0.510,0.020,57278,47.5,,,,,,https://polymarket.com/event/xrp-up-or-down-december-22-11am-et
+2025-12-22T09:32:03.421922,"Ethereum Up or Down - December 22, 12PM ET",0.490,0.510,0.020,18532,46.5,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-22-12pm-et
+2025-12-22T09:32:03.422022,"Solana Up or Down - December 22, 12PM ET",0.490,0.510,0.020,46316,46.5,,,,,,https://polymarket.com/event/solana-up-or-down-december-22-12pm-et
+2025-12-22T09:32:03.422113,"XRP Up or Down - December 22, 12PM ET",0.490,0.510,0.020,29146,46.5,,,,,,https://polymarket.com/event/xrp-up-or-down-december-22-12pm-et
+2025-12-22T09:32:03.422342,"Ethereum Up or Down - December 22, 1PM ET",0.490,0.510,0.020,7042,45.5,,,,,,https://polymarket.com/event/ethereum-up-or-down-december-22-1pm-et
+2025-12-22T09:32:03.422442,"XRP Up or Down - December 22, 1PM ET",0.490,0.510,0.020,22694,45.5,,,,,,https://polymarket.com/event/xrp-up-or-down-december-22-1pm-et
+2025-12-22T09:32:03.422530,"XRP Up or Down - December 22, 2PM ET",0.490,0.510,0.020,11706,44.5,,,,,,https://polymarket.com/event/xrp-up-or-down-december-22-2pm-et
+2025-12-22T09:32:03.422664,"XRP Up or Down - December 22, 3PM ET",0.490,0.510,0.020,18908,43.5,,,,,,https://polymarket.com/event/xrp-up-or-down-december-22-3pm-et
+2025-12-22T09:32:03.422833,"Bitcoin Up or Down - December 22, 8PM ET",0.490,0.510,0.020,7800,38.5,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-22-8pm-et
+2025-12-22T09:32:03.422916,"Bitcoin Up or Down - December 22, 9PM ET",0.500,0.510,0.010,12777,37.5,,,,,,https://polymarket.com/event/bitcoin-up-or-down-december-22-9pm-et
+2025-12-22T09:32:03.424108,Spread: Warriors (-4.5),0.550,0.560,0.010,61235,28.4,,,,,,https://polymarket.com/event/nba-orl-gsw-2025-12-22-spread-home-4pt5
+2025-12-22T09:32:03.424182,Pistons vs. Trail Blazers: O/U 236.5,0.450,0.470,0.020,29135,28.4,,,,,,https://polymarket.com/event/nba-det-por-2025-12-22-total-236pt5
+2025-12-22T09:32:03.424392,"Bitcoin Up or Down - December 22, 8:00AM-12:00PM ET",0.250,0.310,0.060,5108,26.5,,,,,,https://polymarket.com/event/btc-updown-4h-1766408400
+2025-12-22T09:32:03.424553,"Ethereum Up or Down - December 22, 10:15AM-10:30AM ET",0.330,0.470,0.080,21607,24.2,,,,,,https://polymarket.com/event/eth-updown-15m-1766416500
+2025-12-22T09:32:03.424637,"Solana Up or Down - December 22, 10:15AM-10:30AM ET",0.190,0.220,0.030,12481,24.2,,,,,,https://polymarket.com/event/sol-updown-15m-1766416500
+2025-12-22T09:32:03.424730,Blues vs. Lightning: O/U 5.5,0.510,0.530,0.020,27282,24.2,,,,,,https://polymarket.com/event/nhl-stl-tb-2025-12-22-total-5pt5
+2025-12-22T09:32:03.424973,Magic vs. Warriors: O/U 229.5,0.440,0.460,0.020,12694,23.4,,,,,,https://polymarket.com/event/nba-orl-gsw-2025-12-22-total-229pt5
+2025-12-22T09:32:03.425209,Kodiak FDV above $25M one day after launch?,0.770,0.800,0.030,6276,22.7,,,,,,https://polymarket.com/event/kodiak-fdv-above-25m-one-day-after-launch
+2025-12-22T09:32:03.425274,Kodiak FDV above $50M one day after launch?,0.410,0.460,0.050,8179,22.7,,,,,,https://polymarket.com/event/kodiak-fdv-above-50m-one-day-after-launch
+2025-12-22T09:32:03.425367,Bitcoin Up or Down on December 23?,0.500,0.510,0.010,6167,22.5,,,,,,https://polymarket.com/event/bitcoin-up-or-down-on-december-23
+2025-12-22T09:32:03.425497,Solana Up or Down on December 23?,0.470,0.500,0.030,5078,22.5,,,,,,https://polymarket.com/event/solana-up-or-down-on-december-23
+2025-12-22T09:32:03.426303,Counter-Strike: Phantom vs GenOne (BO3),0.260,0.310,0.090,23085,19.8,,,,,,https://polymarket.com/event/cs2-pha-g1-2025-12-22
+2025-12-22T09:32:03.426441,Dota 2: Zero Tenacity vs Yellow Submarine (BO3),0.550,0.620,0.070,5040,19.7,,,,,,https://polymarket.com/event/dota2-z10-yes-2025-12-22
+2025-12-22T09:32:03.426551,Dota 2: Kalmychata vs VP.Prodigy (BO3),0.670,0.680,0.010,18453,19.7,,,,,,https://polymarket.com/event/dota2-kalmy-vpp-2025-12-22
+2025-12-22T09:32:03.427335,Spread: Pistons (-6.5),0.470,0.480,0.010,7535,18.4,,,,,,https://polymarket.com/event/nba-det-por-2025-12-22-spread-away-6pt5
+2025-12-22T09:32:03.427411,Pistons vs. Trail Blazers: O/U 235.5,0.470,0.490,0.020,31502,18.4,,,,,,https://polymarket.com/event/nba-det-por-2025-12-22-total-235pt5
+2025-12-22T09:32:03.428018,Spread: Mavericks (-1.5),0.460,0.470,0.010,8318,15.4,,,,,,https://polymarket.com/event/nba-dal-nop-2025-12-22-spread-away-1pt5
+2025-12-22T09:32:03.428456,Spread: Cavaliers (-9.5),0.480,0.490,0.010,19185,14.4,,,,,,https://polymarket.com/event/nba-cha-cle-2025-12-22-spread-home-9pt5
+2025-12-22T09:32:03.428587,Spread: Thunder (-16.5),0.460,0.470,0.010,12106,14.4,,,,,,https://polymarket.com/event/nba-mem-okc-2025-12-22-spread-home-16pt5
+2025-12-22T09:32:03.428652,Pistons vs. Trail Blazers: O/U 234.5,0.500,0.520,0.020,23684,14.4,,,,,,https://polymarket.com/event/nba-det-por-2025-12-22-total-234pt5
+2025-12-22T09:32:03.428792,Broncos vs. Chiefs: O/U 36.5,0.510,0.540,0.030,9199,14.3,,,,,,https://polymarket.com/event/nfl-den-kc-2025-12-25-total-36pt5
+2025-12-22T09:32:03.428851,Spread: Cowboys (-5.5),0.510,0.540,0.030,5562,14.3,,,,,,https://polymarket.com/event/nfl-dal-was-2025-12-25-spread-away-5pt5
+2025-12-22T09:32:03.429133,Hornets vs. Cavaliers: O/U 236.5,0.540,0.560,0.020,19285,13.4,,,,,,https://polymarket.com/event/nba-cha-cle-2025-12-22-total-236pt5
+2025-12-22T09:32:03.429185,Spread: Celtics (-9.5),0.550,0.560,0.010,15498,13.4,,,,,,https://polymarket.com/event/nba-ind-bos-2025-12-22-spread-home-9pt5
+2025-12-22T09:32:03.429239,Spread: Celtics (-10.5),0.510,0.520,0.010,29381,13.4,,,,,,https://polymarket.com/event/nba-ind-bos-2025-12-22-spread-home-10pt5
+2025-12-22T09:32:03.429346,Pacers vs. Celtics: O/U 225.5,0.480,0.510,0.030,12739,13.4,,,,,,https://polymarket.com/event/nba-ind-bos-2025-12-22-total-225pt5
+2025-12-22T09:32:03.429487,Mavericks vs. Pelicans: O/U 237.5,0.560,0.570,0.010,19574,13.4,,,,,,https://polymarket.com/event/nba-dal-nop-2025-12-22-total-237pt5
+2025-12-22T09:32:03.429564,Jazz vs. Nuggets: O/U 246.5,0.560,0.570,0.010,10159,13.4,,,,,,https://polymarket.com/event/nba-uta-den-2025-12-22-total-246pt5
+2025-12-22T09:32:03.429901,Spread: Nuggets (-14.5),0.430,0.460,0.030,20798,12.4,,,,,,https://polymarket.com/event/nba-uta-den-2025-12-22-spread-home-14pt5
+2025-12-22T09:32:03.429962,Jazz vs. Nuggets: O/U 247.5,0.520,0.540,0.020,12572,12.4,,,,,,https://polymarket.com/event/nba-uta-den-2025-12-22-total-247pt5
+2025-12-22T09:32:03.430208,Pacers vs. Celtics: O/U 224.5,0.500,0.510,0.010,20366,11.4,,,,,,https://polymarket.com/event/nba-ind-bos-2025-12-22-total-224pt5
+2025-12-22T09:32:03.430577,"Will Bitcoin dip to $86,000 December 22-28?",0.110,0.490,0.070,10083,10.5,,,,,,https://polymarket.com/event/will-bitcoin-dip-to-86k-december-22-28
+2025-12-22T09:32:03.430713,"Will Ethereum reach $3,300 December 22-28?",0.240,0.250,0.010,10861,10.5,,,,,,https://polymarket.com/event/will-ethereum-reach-3300-december-22-28
+2025-12-22T09:32:03.431060,Spread: Cavaliers (-8.5),0.530,0.540,0.010,35198,10.4,,,,,,https://polymarket.com/event/nba-cha-cle-2025-12-22-spread-home-8pt5
+2025-12-22T09:39:13.737182,"Will the price of Bitcoin be between $88,000 and $90,000 on December 23?",0.320,0.350,0.030,5054,142.7,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-88000-90000-on-december-23
+2025-12-22T09:39:13.741663,Will Apple (AAPL) finish week of December 22 above $285?,0.030,0.050,0.020,10722,64.7,,,,,,https://polymarket.com/event/aapl-above-285-on-december-26-2025
+2025-12-22T09:39:13.742066,Will Meta (META) finish week of December 22 above $660?,0.530,0.680,0.150,13360,64.7,,,,,,https://polymarket.com/event/meta-above-660-on-december-26-2025
+2025-12-22T09:39:13.749118,"Will Bitcoin reach $100,000 December 22-28?",0.018,0.078,0.060,22177,10.7,,,,,,https://polymarket.com/event/will-bitcoin-reach-100k-december-22-28
+2025-12-22T09:39:13.749232,"Will Bitcoin reach $98,000 December 22-28?",0.070,0.090,0.020,14710,10.7,,,,,,https://polymarket.com/event/will-bitcoin-reach-98k-december-22-28
+2025-12-22T09:39:13.749659,Jazz vs. Nuggets: O/U 248.5,0.510,0.530,0.020,14090,10.5,,,,,,https://polymarket.com/event/nba-uta-den-2025-12-22-total-248pt5
+2025-12-22T09:39:13.749787,Spread: Washington State (-0.5),0.420,0.490,0.070,5212,10.2,,,,,,https://polymarket.com/event/cfb-washst-utahst-2025-12-22-spread-away-0pt5
+2025-12-22T09:39:13.750340,Grizzlies vs. Thunder: O/U 229.5,0.520,0.530,0.010,35456,9.5,,,,,,https://polymarket.com/event/nba-mem-okc-2025-12-22-total-229pt5
+2025-12-22T09:39:13.752164,S&P 500 (SPX) Up or Down on December 22?,0.870,0.900,0.030,9258,1.6,,,,,,https://polymarket.com/event/sp-500-spx-up-or-down-on-december-22
+2025-12-22T09:46:26.599663,"Bitcoin Up or Down - December 22, 10:30AM-10:45AM ET",0.340,0.350,0.020,57450,24.2,,,,,,https://polymarket.com/event/btc-updown-15m-1766417400
+2025-12-22T09:53:37.579588,"Will the price of Bitcoin be between $88,000 and $90,000 on December 24?",0.260,0.300,0.040,5406,118.9,,,,,,https://polymarket.com/event/will-the-price-of-bitcoin-be-between-88000-90000-on-december-24
+2025-12-22T09:53:37.581980,"Will the price of Bitcoin be above $94,000 on December 26?",0.120,0.150,0.030,11035,70.9,,,,,,https://polymarket.com/event/bitcoin-above-94k-on-december-26
+2025-12-22T09:53:37.586170,"Bitcoin Up or Down - December 22, 10:45AM-11:00AM ET",0.530,0.550,0.020,5878,24.1,,,,,,https://polymarket.com/event/btc-updown-15m-1766418300
+2025-12-22T09:53:37.590171,"Will Bitcoin reach $96,000 December 22-28?",0.130,0.140,0.010,5710,10.9,,,,,,https://polymarket.com/event/will-bitcoin-reach-96k-december-22-28
+2025-12-22T10:00:48.957851,"Will the price of Ethereum be above $3,000 on December 23?",0.660,0.700,0.040,5103,143.0,,,,,,https://polymarket.com/event/ethereum-above-3000-on-december-23
+2025-12-22T10:00:48.969384,"Will Bitcoin reach $94,000 December 22-28?",0.300,0.340,0.040,5164,11.0,,,,,,https://polymarket.com/event/will-bitcoin-reach-94k-december-22-28

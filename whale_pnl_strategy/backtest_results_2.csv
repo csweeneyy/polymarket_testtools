@@ -1,0 +1,6 @@
+condition_id,question,resolution,volume_usd,yes_weighted_pnl,no_weighted_pnl,signal,predicted_side,correct,yes_holders,no_holders
+0xee5a7f44c8096918177d196f28075a3e1a725b3b0c03a112084bb28aa3c9a3c2,"Will the price of Bitcoin be above $110,000 on September 26 at 4AM ET?",NO,99.9998,0.0,0.0,0.0,NEUTRAL,False,0,0
+0x47ca4c9ce1af718d91d9a74a98d470158a2c6d6ac16c503a3bfde6f19c172fed,Will Universitatea Craiova CS win on 2025-10-23?,NO,9999.872194,0.0,0.0,0.0,NEUTRAL,False,0,0
+0x922e3703ad7c0398358e4b6cb9624c56a01269e00c1a76becb907a3faad2bbf8,Will Gabriel Bortoleto win the 2025 F1 United States Grand Prix pole?,NO,999.9835,75.51483200824248,0.0,1.0,YES,False,1,0
+0x9aa5e5aeaf5e13e2a6b185179c5d360202498e3dc02d32eb39e47122e074e6d4,Trail Blazers vs. Kings: O/U 239.5,NO,9999.770678,14174.214306659967,0.0,1.0,YES,False,6,0
+0x763f4aebc978e49ec684ba306d9cb6f2347b1c5004a1a35b2cafbc850bd75bc5,Alabama State Hornets vs. Georgia Bulldogs (W),NO,99.997233,0.0,0.0,0.0,NEUTRAL,False,0,0

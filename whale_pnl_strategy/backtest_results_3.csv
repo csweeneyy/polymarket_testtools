@@ -1,0 +1,51 @@
+Question,Resolution,ConditionId,Signal_50pct,Signal_25pctRem,Signal_10pctRem,Signal_24hPre
+Dvalishvili vs. Sandhagen,YES,0x61ef853c0ecc72a583da722cf6434681f9b92d10652cded44d8f889beb923418,-1.0,-1.0,-1.0,-1.0
+Spread: Knicks (-4.5),YES,0x6085053aed660a81b4a3238e5576358a1c599f886fead5e54a6df78a7bf7ee0f,1.0,1.0,1.0,
+Will Club Brugge win on 2025-09-30?,NO,0x0b4040fc7d7861e2bed49b577fe1badae6497ba79a4a4ebf673e8c1940516ce4,-1.0,-1.0,-0.094,-0.094
+Barcelona vs. Atletico Madrid: O/U 3.5,YES,0x75687bf3518e6db478a66a04737c059d3539d1915fcab7c09781da2e9047f78e,0.0,0.0,1.0,1.0
+Pistons vs. 76ers,YES,0xe93c79708256b1f78d82277d2b8778a5a3fd998833083fedb6c8a7baf20b3720,0.0,1.0,1.0,1.0
+Bears vs. Eagles: O/U 44.5,NO,0x4fcbbc517cc6e2e39fa4eab3adb336b7e6bade39399f533ad590d0643bdc03f8,1.0,1.0,1.0,1.0
+Will Borussia Dortmund win on 2025-11-22?,NO,0xf9af328ed507d7b3da8a4a1873b54a57d59e4508f7681f5d01c12a0783b9e7d0,-1.0,-1.0,-1.0,1.0
+Will annual inflation increase by 3.0% in November?,NO,0xd8a51600e6ec2641fcc25efea4f1ce32d00f0c665f5223142e11afd5ea7c126a,0.399,0.574,0.13,-0.762
+Will VfB Stuttgart win on 2025-11-09?,YES,0x2a2c1ad33e5ada4bd6c3cfa5ffe8782dd176eb08a3e62067a7bb7ba3a3bba8e3,0.0,0.0,1.0,1.0
+Will Ajax Amsterdam win on 2025-09-30?,NO,0xe5fbe9257950868d9e367f4466c79a3b997584e327c6b69d0a6f7204a0b758e1,0.0,-1.0,1.0,1.0
+Kings vs. Grizzlies,NO,0x703e16666c4979622562ec916e7d7747f68992868fdf3ecd2213f3b1b8203014,0.0,0.0,0.19,0.0
+Spread: Lakers (-10.5),NO,0x52f00a00d6d26889314642200dc107be05314f750dadc52fafc3844893a8584b,1.0,1.0,1.0,1.0
+Counter-Strike: FaZe vs TheMongolz (BO1),NO,0xfc678ffee1849b0e710730e56854f4bc6e501602d4acf31f3336bb294750d9c9,-1.0,0.05,0.993,
+Will Zohran Mamdani win by less than 5%?,NO,0x9258f3aa2eeb9b09f38f6bf0e011873592ae463f917634ebdf4609c7d42dfefc,0.875,0.931,0.94,0.94
+"ATP World Tour Finals, Jimmy Connors Group: Carlos Alcaraz vs Lorenzo Musetti",YES,0x5eb53a1b64c429037f6d9245afee164813ed9388d037976d37ce042f0f79740e,0.0,0.0,1.0,-1.0
+"UFC 323: Moreno vs. Taira (Flyweight, Main Card)",NO,0xe9d5f92286ad75eff838f8d464de3c9046d6fb77003eceb9210188cce6727218,0.0,-1.0,-1.0,-1.0
+UCF vs. Kansas State,NO,0xe00b8cd962038ff422aa9dc0948283959850ffc264c23e67a96124d1a86b2d3a,1.0,-1.0,-1.0,-1.0
+Will Real Madrid win on 2025-12-03?,YES,0x8c0ea5f3568be8551674431aa5dbc32d564ce667e24d333392cd283aaa736046,0.0,0.0,1.0,1.0
+Seahawks vs. Jaguars,YES,0x102c98f54c6d5be80d8380ce55a93ae10bc4fd285729b3aa33a6712484c9375a,0.0,1.0,1.0,1.0
+Hurricanes vs. Sabres: O/U 6.5,NO,0x02cc3757a05ec20493ebd9c1abca54f07b25b60b3689f64cbef45e0957305d6c,0.0,1.0,1.0,0.0
+Will Borussia Mönchengladbach win on 2025-12-19?,NO,0x32662dad05236ef0c6e249f650e13225f5969fe03b8052d9005889727a17bae1,0.0,1.0,1.0,1.0
+UAB Blazers vs. Tulsa,YES,0xa2c0aebb8eb3ea2afc3a8fba0f2eca31658757780167e69e0016bffb2a86566f,1.0,1.0,1.0,1.0
+Spread: Rockets (-9.5),YES,0x37f80d85d7cf363f903a02f86325ebb5aae3cf82cad774c6511d31888365b7d8,-1.0,-1.0,-1.0,
+Iowa State vs. Colorado,NO,0x769a1fc3af411ac5e2b115bd6c7d36f6c6b3b58b2159c21d68ecb1fb5bd7b77f,1.0,1.0,1.0,1.0
+AS Monaco FC vs. Tottenham Hotspur FC: O/U 2.5,NO,0xc41b8868e2fa48aac98a69b08e1c6edb923a85d8aa4c337f4c88f99b49ef9aff,0.0,1.0,1.0,1.0
+Dota 2: Team Falcons vs Xtreme Gaming - Game 2 Winner,NO,0xc075a3a1510a43d0417d4b0320f384334629bfbc452c778e2af92ed8adabe7c1,-1.0,-1.0,-1.0,-1.0
+Bucks vs. Pistons: O/U 224.5,YES,0x84f7c448551ede1c4d21548737321221b5b367a36cddb38a2562b1dd5748f81c,1.0,1.0,1.0,
+Saints vs. Panthers,YES,0x5daf50568fe856ab892be624de6c38b371fa50c49c9d96163e698d197b95f2ac,0.0,1.0,1.0,1.0
+Spread: Magic (-2.5),YES,0xf4bbb3b787d42dd2b142a94909537b478968e0e0dfacb025a6350054b46bdf3e,-1.0,-1.0,-1.0,0.0
+Suns vs. Clippers,NO,0x9e5e066f4193536530683346ffce40799ad3c9ebca583f1ff39a34654f143f9a,0.0,0.0,1.0,1.0
+"Will Jorge ""Tuto"" Quiroga win by 15–20%?",NO,0x12335d506ec9b1cfaba764484caea32584746a7dda8f9f2d63b661a2d70f4c45,1.0,1.0,1.0,1.0
+Old Dominion vs. James Madison,NO,0xa967686486b0ab1f91ca56a92fbd957f602b4aea77f8df21fbdd24b5177cb0e4,-1.0,-1.0,-1.0,-1.0
+Will Jara win by at least 5%?,NO,0xe7b27fd3bc63c41c7bbb471ba58a59abcb3cd3570b7bf2d5812bc92f8488d896,1.0,-1.0,-1.0,-1.0
+Will B8 win the StarLadder Budapest Major 2025?,NO,0x63e22ca71c6c6a12d45edf981f08f7ece983dbd37e4b24c99643e7ef3d00cfdf,0.0,1.0,1.0,1.0
+Will Angstrom win 2025 Uniswap Cup?,NO,0x440446579ad92c6f0d8f492b54b7b6236118403e2abc892a8dc31cd6f75a8f64,0.0,1.0,1.0,1.0
+Spread: Spurs (-6.5),YES,0x7c9db7a432c1a625ba3ca6d92ae2ae8b063bc55d6bfb5c5e488e58a3564abf81,1.0,1.0,1.0,-1.0
+Dota 2: Xtreme Gaming vs Heroic - Game 2 Winner,NO,0x02f704a591ed0583210d1ae19c0eb3faaafd978355e61f8624ae8f915ac5b9a0,0.0,0.0,1.0,
+Will Athletic Club win on 2025-11-22?,NO,0x38e48b886124bb24847293932b89b5f9153309807450a04caf097fbc9bdd0563,1.0,1.0,1.0,0.378
+Will Trump release the Epstein files by November 30?,NO,0x581ea2e0e1b796f217f7d72e8517592c2f02de25139bb75b83c4580ffed339e7,-1.0,-1.0,-1.0,-1.0
+Dota 2: Team Yandex vs Team Falcons (BO3),NO,0x543613112c5189ea7a2f29d3192a753ea2d14af92f353682d11d12cec4da3af8,1.0,1.0,1.0,
+Will Israel win Miss Universe 2025?,NO,0xe54e7d4d915d593cb87f088adb902aaaeded1ceb10d1516623374eaf668124d7,-1.0,-1.0,-1.0,-1.0
+Northwestern vs. USC: O/U 51.5,YES,0xe2f161ed7a600f5a293f9baeb65d135da068bdfce5ec6246919f565e297d3293,0.0,-1.0,1.0,0.0
+Spread: Clippers (-7.5),NO,0x0f1cff9cace47ffcefa936bc74ce73ab61dd3de98244c244005901e554cf516b,0.0,-1.0,-1.0,0.0
+Will Al Kholood Saudi Club win on 2025-10-17?,YES,0x0de52cbdbf680ba22ea0fa8fe96866cd41e57503b0f10cf983883b0984fc3aad,0.0,1.0,1.0,1.0
+"ATP World Tour Finals, Final Stage: Jannik Sinner vs Alex de Minaur",YES,0xf235e7e5bcaa0d9e4bb12e7851ce84166c47be3d2d2a2365efa1a0ee6bccd31e,-0.799,-0.212,-0.9,-1.0
+Ducks vs. Blackhawks,NO,0xb41043e89d67c4c6b679c238f7672643a1d34c85fda62e281f7fab5e951bd9b4,0.0,0.0,0.0,-1.0
+Will Galatasaray SK win on 2025-11-09?,NO,0x8d029739c3306a27230dfe4b79812b01e7f2d9f321b7a60e4551035ef111ffe4,0.0,0.0,0.0,-1.0
+Swiss Indoors Basel: Alejandro Davidovich Fokina vs Joao Fonseca,NO,0xf0823386f0f2a36e16833579fbc3af94d6e84d522f245350edfa61be3b704294,1.0,-1.0,1.0,
+Wolverhampton Wanderers FC vs. Brentford FC: O/U 2.5,NO,0xe6e36398708c1c041cc0766e0c6b56c74211c3622d9270a1931916323cc77d16,0.0,0.0,1.0,1.0
+Blue Jackets vs. Panthers,NO,0x2d38ea117b0e219e48473321b190422276ace3ecce3567f938de058bf9cd5364,0.0,0.0,0.0,-1.0

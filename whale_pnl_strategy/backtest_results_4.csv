@@ -1,0 +1,6 @@
+Question,Resolution,ConditionId,Signal_50pct,YesPnl_50pct,NoPnl_50pct,Pred_50pct,Correct_50pct,Signal_25pctRem,YesPnl_25pctRem,NoPnl_25pctRem,Pred_25pctRem,Correct_25pctRem,Signal_10pctRem,YesPnl_10pctRem,NoPnl_10pctRem,Pred_10pctRem,Correct_10pctRem,Signal_24hPre,YesPnl_24hPre,NoPnl_24hPre,Pred_24hPre,Correct_24hPre
+Will Zohran Mamdani win by less than 5%?,NO,0x9258f3aa2eeb9b09f38f6bf0e011873592ae463f917634ebdf4609c7d42dfefc,0.875,6.5,0.4,YES,False,0.931,12.0,0.4,YES,False,0.94,13.9,0.4,YES,False,0.94,13.9,0.4,YES,False
+"Will Jorge ""Tuto"" Quiroga win by 15–20%?",NO,0x12335d506ec9b1cfaba764484caea32584746a7dda8f9f2d63b661a2d70f4c45,1.0,3.8,0.0,YES,False,1.0,11.8,-1.0,YES,False,1.0,11.8,-1.0,YES,False,1.0,14.2,-0.8,YES,False
+Will Jara win by at least 5%?,NO,0xe7b27fd3bc63c41c7bbb471ba58a59abcb3cd3570b7bf2d5812bc92f8488d896,1.0,1.5,0.0,YES,False,-1.0,-0.0,0.0,NO,True,-1.0,-1.7,0.0,NO,True,-1.0,-4.4,0.0,NO,True
+Will Trump release the Epstein files by November 30?,NO,0x581ea2e0e1b796f217f7d72e8517592c2f02de25139bb75b83c4580ffed339e7,-1.0,-8.0,0.1,NO,True,-1.0,-18.7,4.4,NO,True,-1.0,-15.1,4.2,NO,True,-1.0,-14.8,4.2,NO,True
+Will Trump meet with Vladimir Putin in September?,NO,0xfc432f69ae425db068e925e5e228e9a08a19d40080e331eff970338c98c6f322,0.823,13.5,1.3,YES,False,0.787,11.0,1.3,YES,False,0.776,10.4,1.3,YES,False,0.774,10.3,1.3,YES,False
